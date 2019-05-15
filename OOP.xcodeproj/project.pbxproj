@@ -17,6 +17,7 @@
 		10563A16228BB6170080A194 /* HumanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10563A15228BB6170080A194 /* HumanViewController.swift */; };
 		10563A1A228BB6C20080A194 /* Human.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10563A19228BB6C20080A194 /* Human.storyboard */; };
 		10563A1C228BC4CB0080A194 /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10563A1B228BC4CB0080A194 /* FacilitatorModel.swift */; };
+		10563A21228BC9400080A194 /* MenteeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10563A20228BC9400080A194 /* MenteeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		10563A15228BB6170080A194 /* HumanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HumanViewController.swift; sourceTree = "<group>"; };
 		10563A19228BB6C20080A194 /* Human.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Human.storyboard; sourceTree = "<group>"; };
 		10563A1B228BC4CB0080A194 /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
+		10563A20228BC9400080A194 /* MenteeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenteeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				10563A0F228BA9900080A194 /* LearnerModel.swift */,
 				10563A1B228BC4CB0080A194 /* FacilitatorModel.swift */,
 				105639FB228B9CF90080A194 /* ViewController.swift */,
+				10563A20228BC9400080A194 /* MenteeModel.swift */,
 				105639FD228B9CF90080A194 /* Main.storyboard */,
 			);
 			path = "Learner Model";
@@ -172,6 +175,7 @@
 				10563A12228BB4520080A194 /* HumanModel.swift in Sources */,
 				10563A10228BA9900080A194 /* LearnerModel.swift in Sources */,
 				10563A16228BB6170080A194 /* HumanViewController.swift in Sources */,
+				10563A21228BC9400080A194 /* MenteeModel.swift in Sources */,
 				105639FA228B9CF90080A194 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
