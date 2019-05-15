@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Updated")
+        print("update lagi gan")
+    }
+    
+    func sum(){
+        
     }
 
 
